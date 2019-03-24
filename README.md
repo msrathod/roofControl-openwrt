@@ -53,7 +53,7 @@ For a rebuild:
 ```
 make package/blynkClient/{clean,compile,install} V=s
 ```
-## Build just roofManager package:
+## Build just the roofManager package:
 ```
 make package/roofManager/compile V=s
 ```
